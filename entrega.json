@@ -1,0 +1,16 @@
+{
+  "turma": "2DTATBB",
+  "grupo": "Grupo 35",
+  "integrantes": [
+    { "nome": "Alexandre dos Anjos de Jesus", "rm": "RM377732" },
+    { "nome": "Didan Junqueira Ribeiro", "rm": "RM377825" },
+    { "nome": "Fernanda Arruda Pimenta da Silva", "rm": "RM377753" },
+    { "nome": "Guilherme Caetano Peron", "rm": "RM377756" },
+    { "nome": "Nathalia Fernanda dos Santos Gelais", "rm": "RM377743" }
+  ],
+  "links": {
+    "repositorio": "https://github.com/mc647/techChalengeFase2",
+    "video": "https://www.youtube.com/watch?v=xxxxxxxxxxx",
+    "apresentacao": "https://github.com/mc647/techChalengeFase2/blob/main/docs/apresentacao_executiva.pdf"
+  }
+}
